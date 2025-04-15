@@ -1,9 +1,12 @@
 body{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-color: rgb(51, 45, 110);
-    color: blueviolet;
+    color: rgb(0, 255, 42);
     background-position: center;
     background-attachment: fixed;
+    background-image: url(imagenes/fondo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 img{
     width: 350px;
