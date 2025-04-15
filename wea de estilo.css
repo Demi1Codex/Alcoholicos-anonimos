@@ -1,0 +1,23 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(51, 45, 110);
+    color: blueviolet;
+    background-position: center;
+    background-attachment: fixed;
+}
+img{
+    width: 350px;
+    height: auto;
+    border-radius: 30px;
+    margin: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+p{
+    font-size: 30px;
+    line-height: 2.5;
+    margin: 20px;
+    text-align: justify;
+}
+b{
+    color : rgb(103, 179, 103);
+}
