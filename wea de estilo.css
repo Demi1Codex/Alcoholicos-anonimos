@@ -1,7 +1,7 @@
 body{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-color: rgb(51, 45, 110);
-    color: rgb(0, 255, 42);
+    color: rgb(0, 255, 132);
     background-position: center;
     background-attachment: fixed;
     background-image: url(imagenes/fondo.png);
@@ -22,7 +22,7 @@ p{
     text-align: justify;
 }
 b{
-    color : rgb(103, 179, 103);
+    color : red;
 }
 a{
     color: rgb(160, 2, 2);
@@ -33,4 +33,7 @@ a{
     display: inline-block;
     border-radius: 10px;
     font-size: 30px;
+}
+.noVicible{
+    display: none;
 }
